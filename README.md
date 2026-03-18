@@ -25,4 +25,4 @@ You can run ZenithBench directly on your server using `curl`.
 
 ### Quick Execution
 ```bash
-curl -Lso- [https://raw.githubusercontent.com/YOUR_USERNAME/ZenithBench/main/zenith.sh](https://raw.githubusercontent.com/YOUR_USERNAME/ZenithBench/main/zenith.sh) | bash
+curl -Lso- https://raw.githubusercontent.com/alghifari0101/ZenithBench/main/zenitbench.sh | bash
